@@ -143,5 +143,10 @@ height:3px;`;
 
 export const H3 = styled.h3`
 margin: 10px;
+color: #ffffff;
+  font-weight: bold;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 18px;
 
 `; 

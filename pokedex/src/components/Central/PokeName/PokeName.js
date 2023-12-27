@@ -1,5 +1,5 @@
 import React from "react";
-import { PokeNameH2, PokeID, Glass} from "./styled";
+import { PokeNameH2, PokeID} from "./styled";
 
 const PokeName = ({ pokemon }) => {
   return (

@@ -21,8 +21,9 @@ const Home = () => {
   return (
     <HomeD>
       <TextCountainer>
+      <H3>Welcome to the fascinating world of Pokémon!</H3>
         <SubTitle>
-<H3>Welcome to the fascinating world of Pokémon!</H3>
+
 Embark on a unique journey through the diverse generations of these lovable creatures, exploring their abilities, evolutions, and intriguing facts.
  Our website offers a comprehensive experience with the Pokédex, allowing you to delve deep into all generations of Pokémon, 
  from the classics of the Kanto region to the latest discoveries in Paldea. Be a virtual trainer, discover detailed information about each Pokémon.
