@@ -4,7 +4,6 @@ import {
   PokeStatsH2,
   PokeStatsUl,
   InfoStatus,
-  ProgressBarContainer,
 } from "./styled";
 import ProgressBar from "../ProgressBar/ProgressBar";
 

@@ -99,7 +99,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen1}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="../PokeButton/bulbasaur.png" alt=""
           />
          <span className="now">Gen 1</span>
@@ -115,7 +115,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen2}
         >
            <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/chikorita.png" alt=""
           />
          <span className="now">Gen 2</span>
@@ -130,7 +130,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen3}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/treecko.png" alt=""
           />
          <span className="now">Gen 3</span>
@@ -146,7 +146,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen4}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/turtwig.png" alt=""
           />
          <span className="now">Gen 4</span>
@@ -161,7 +161,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen5}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/victini.png" alt=""
           />
          <span className="now">Gen 5</span>
@@ -176,7 +176,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen6}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/chespin.png" alt=""
           />
          <span className="now">Gen 6</span>
@@ -191,7 +191,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen7}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/rowlet.png" alt=""
           />
          <span className="now">Gen 7</span>
@@ -206,7 +206,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen8}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/grookey.png" alt=""
           />
          <span className="now">Gen 8</span>
@@ -221,7 +221,7 @@ const NavBar = ({ handleRegion, showButtons }) => {
           onClick={handleGen9}
         >
           <img
-            class="imagem"
+            className="imagem"
             src="./PokeButton/sprigatito.png" alt=""
           />
          <span className="now">Gen 9</span>
